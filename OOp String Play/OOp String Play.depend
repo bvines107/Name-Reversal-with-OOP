@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1504286304 source:c:\users\a147107\desktop\oop string play\game.cpp
+	"game.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1504283320 c:\users\a147107\desktop\oop string play\game.h
+	<iostream>
+	<string>
+	<algorithm>
+
+1504280414 source:c:\users\a147107\desktop\oop string play\live.cpp
+	"game.h"
+	<iostream>
+	<string>
+	<algorithm>
+
